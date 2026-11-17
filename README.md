@@ -50,9 +50,13 @@ Algumas experiências que marcaram minha trajetória:
 ### 04 / GitHub activity
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=NicollyXavier&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollyXavier&layout=compact&hide_border=true&theme=transparent&langs_count=5" alt="Most used languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NicollyXavier&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollyXavier&layout=compact&theme=transparent&hide_border=true&langs_count=5" alt="Top Languages" />
 </div>
+
+<p align="center">
+  <sub>Um pouco da minha jornada de desenvolvimento por aqui.</sub>
+</p>
 
 ---
 
