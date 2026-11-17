@@ -1,7 +1,5 @@
 # Nicolly Xavier
 
-<img align="right" width="140" src="https://github.com/NicollyXavier.png" alt="Foto de perfil da Nicolly"/>
-
 **Software Developer · Frontend & AI Enthusiast**
 
 Transformo ideias e problemas reais em experiências digitais, combinando desenvolvimento de software, design de interfaces e tecnologia.
