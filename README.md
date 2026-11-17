@@ -80,6 +80,26 @@ Algumas experiências que marcaram minha trajetória:
 
 </div>
 
+
+<br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/NicollyXavier/NicollyXavier/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/NicollyXavier/NicollyXavier/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/NicollyXavier/NicollyXavier/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
+---
+
 <p align="center">
   <sub>Um pouco da minha jornada de desenvolvimento por aqui.</sub>
 </p>
