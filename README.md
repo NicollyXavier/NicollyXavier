@@ -1,16 +1,67 @@
-## Hi there 👋
+# Nicolly Xavier
 
-<!--
-**NicollyXavier/NicollyXavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="140" src="https://github.com/NicollyXavier.png" alt="Foto de perfil da Nicolly"/>
 
-Here are some ideas to get you started:
+**Software Developer · Frontend & AI Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Transformo ideias e problemas reais em experiências digitais, combinando desenvolvimento de software, design de interfaces e tecnologia.
+
+Sou formada em Engenharia da Computação e atualmente curso Análise e Desenvolvimento de Sistemas. Meu foco está no desenvolvimento frontend, mas gosto de explorar diferentes áreas da engenharia de software, especialmente integração de sistemas e inteligência artificial.
+
+[LinkedIn](www.linkedin.com/in/nicolly-xavier-lima) · [Projetos](https://github.com/NicollyXavier?tab=repositories)
+
+<br clear="right"/>
+
+---
+
+### 01 / O que faço
+
+- **Frontend:** desenvolvimento de interfaces com React, Next.js e TypeScript.
+- **UI/UX:** prototipação, refatoração visual e construção de experiências intuitivas.
+- **Software Engineering:** integração de APIs, organização de aplicações e boas práticas.
+- **AI & Innovation:** exploração de inteligência artificial aplicada a problemas reais.
+
+### 02 / Tech stack
+
+<div align="left">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,flask" />
+
+**Tools & Design**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,canva,vscode" />
+
+</div>
+
+### 03 / Beyond the code
+
+Acredito que tecnologia também é sobre entender pessoas e contextos.
+
+Algumas experiências que marcaram minha trajetória:
+
+- Desenvolvimento de soluções para desafios de inovação e impacto social.
+- Projeto de realidade virtual para treinamento de bombeiros, premiado na Mostra de Projetos da UNINASSAU.
+- Pesquisa e desenvolvimento de protótipo de inteligência artificial aplicado à triagem de sinais de alerta para TEA.
+
+### 04 / GitHub activity
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=NicollyXavier&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollyXavier&layout=compact&hide_border=true&theme=transparent&langs_count=5" alt="Most used languages"/>
+</div>
+
+---
+
+<div align="center">
+
+**Construindo, experimentando e aprendendo. Um projeto de cada vez.**
+
+<sub>Recife, Brasil · © Nicolly Xavier</sub>
+
+</div>
