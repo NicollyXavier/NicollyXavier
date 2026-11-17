@@ -33,7 +33,7 @@ Sou formada em Engenharia da Computação e atualmente curso Análise e Desenvol
 
 **Tools & Design**
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,canva,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 
 </div>
 
