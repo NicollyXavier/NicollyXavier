@@ -47,11 +47,37 @@ Algumas experiências que marcaram minha trajetória:
 - Projeto de realidade virtual para treinamento de bombeiros, premiado na Mostra de Projetos da UNINASSAU.
 - Pesquisa e desenvolvimento de protótipo de inteligência artificial aplicado à triagem de sinais de alerta para TEA.
 
+
 ### 04 / GitHub activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NicollyXavier&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollyXavier&layout=compact&theme=transparent&hide_border=true&langs_count=5" alt="Top Languages" />
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/overview.dark.svg"
+    />
+    <img
+      src="./assets/overview.light.svg"
+      alt="GitHub overview"
+      width="100%"
+    />
+  </picture>
+
+  <br/>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/languages.dark.svg"
+    />
+    <img
+      src="./assets/languages.light.svg"
+      alt="Most used languages"
+      width="100%"
+    />
+  </picture>
+
 </div>
 
 <p align="center">
@@ -59,6 +85,7 @@ Algumas experiências que marcaram minha trajetória:
 </p>
 
 ---
+
 
 <div align="center">
 
